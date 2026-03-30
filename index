@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica Costanera: Economía de la Pertenencia | Reporte Proqualitas</title>
+</head>
+<body>
+
+    <nav aria-label="Navegación rápida del reporte">
+        <ul>
+            <li><a href="#escenario">Escenario</a></li>
+            <li><a href="#desafio">Nudo Crítico</a></li>
+            <li><a href="#propuesta">Resolución</a></li>
+            <li><a href="#negocio">Oportunidad SENCE</a></li>
+        </ul>
+    </nav>
+
+    <header role="banner">
+        <p role="doc-subtitle">Reporte de Visión Estratégica</p>
+        <h1>El Viaje hacia la Economía de la Pertenencia</h1>
+        
+        <section class="metadata" aria-label="Información del remitente y destinatario">
+            <address>
+                <p><strong>Para:</strong> <span class="label">Carlos Jaramillo</span>, Gestión de Personas – Clínica Costanera</p>
+                <p><strong>De:</strong> <span class="label">Ignacio Gómez</span>, Business Partner en Proqualitas</p>
+            </address>
+            <time datetime="2026-03-30">Lunes, 30 de marzo de 2026</time>
+        </section>
+    </header>
+
+    <main id="main-content">
+        
+        <section id="escenario" aria-labelledby="h2-escenario">
+            <h2 id="h2-escenario">1. El Escenario: Una Promesa en Expansión</h2>
+            <figure role="group" aria-labelledby="invierte-caption">
+                <blockquote cite="Clínica Costanera">
+                    Carlos, no solo se materializa una inversión física; se cimenta un legado.
+                </blockquote>
+                <figcaption id="invierte-caption">
+                    Inversión proyectada: <mark><strong>$9.400 millones</strong></mark> en el centro de Las Ánimas.
+                </figcaption>
+            </figure>
+            <p>El nudo crítico: La infraestructura no garantiza el éxito; lo hace la <strong>coherencia cultural</strong>.</p>
+        </section>
+
+        <section id="desafio" aria-labelledby="h2-desafio">
+            <h2 id="h2-desafio">2. El Desafío: La Fuga de Energía</h2>
+            <p>Riesgo de "secuestro" por carga administrativa, volviendo a la institución <em aria-label="Definición">emocionalmente estéril</em>.</p>
+            
+            <div role="alert" aria-live="polite">
+                <h3>Riesgo Detectado</h3>
+                <p>Si 200 nuevos colaboradores ingresan a una estructura sobrepasada, la fuga de energía será la narrativa oficial.</p>
+            </div>
+        </section>
+
+        <section id="propuesta" aria-labelledby="h2-resolucion">
+            <h2 id="h2-resolucion">3. La Resolución: El Cuarto Espacio como Blindaje</h2>
+            
+            <article class="m3-card">
+                <h3>Onboarding como Rito de Pertenencia</h3>
+                <p>Diseño de un <strong>Cuarto Espacio de Inducción</strong> para absorber los ingresos de agosto sin colapsar al equipo de 3 personas.</p>
+                <span class="badge" role="note">Meta: Anclaje de propósito</span>
+            </article>
+
+            <article class="m3-card">
+                <h3>Coherencia ante la Ley Karin</h3>
+                <p>Aplicación del <strong>Modelo 9E de Coherencia</strong>. El respeto como infraestructura emocional que protege la acreditación de calidad.</p>
+            </article>
+        </section>
+
+        <aside id="negocio" aria-labelledby="h2-negocio">
+            <h2 id="h2-negocio">4. Sincronización Estratégica</h2>
+            <p>Financie la transformación cultural con costo directo casi cero.</p>
+            <ul>
+                <li>Uso de <strong>Franquicia Tributaria SENCE</strong>.</li>
+                <li>Incentivo adicional del <strong>+40%</strong> por nuevas contrataciones.</li>
+            </ul>
+            <p>Elevamos la capacitación de "gasto" a <mark>motor de rentabilidad</mark>.</p>
+        </aside>
+
+    </main>
+
+    <footer role="contentinfo">
+        <section class="cta-container" aria-labelledby="h2-cta">
+            <h2 id="h2-cta">¿Avanzamos con la validación?</h2>
+            <p>Solicite una reunión de 15 minutos para conocer el caso de éxito de <strong>Red Salud</strong>.</p>
+            
+            <form action="#" method="get">
+                <fieldset>
+                    <legend>Programar sesión informativa</legend>
+                    <label for="hora-preferente">Propuesta para este jueves:</label>
+                    <input type="time" id="hora-preferente" name="hora" required>
+                    <button type="submit" aria-label="Agendar reunión de 15 minutos con Ignacio Gómez">Confirmar Disponibilidad</button>
+                </fieldset>
+            </form>
+        </section>
+    </footer>
+
+</body>
+</html>
